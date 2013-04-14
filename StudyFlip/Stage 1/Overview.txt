@@ -1,0 +1,17 @@
+Stage 1 - Project problem outline & project management 
+Due:  Week 8 Term 4 Wednesday 28 November 2012
+The aim of the first stage is to define and understand the problem to be solved.  This includes:
+-	finding and identifying a problem or need to solve
+-	analysing the problem and clearly identifying the user requirements
+-	outlining the identified problem or need
+-	outlining a proposal how the problem is to be solved
+-	modelling the system using a limited prototype
+
+The project management plan is also set up including action lists "action.txt", Log book "log.txt",Project Proposal "pproposal.docx" and Gantt chart "project.mpp", which will later be converted into project.pdf
+
+
+Notes from Eeyern:
+Defining and Understanding the problem will be contained in word document "Defining&Understanding.docx"
+
+
+Gantt Chart and Log Book are going to be placed in folder: "Project Management"

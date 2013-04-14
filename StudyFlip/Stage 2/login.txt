@@ -1,0 +1,46 @@
+START
+	set username
+	set password
+	set success = false
+
+	
+		IF username and password == null THEN
+			return no username or password
+	
+
+		ELSE 
+
+			WHILE success = false and not end of DB
+				Get usernameEntry
+				Get passwordEntry
+
+				IF usernameEntry = username THEN
+						success=true
+							IF passwordEntry = password THEN
+								success=true
+				ELSE 
+						IF passwordEntry != password THEN
+							return invalid username or password
+							
+						ELSE
+							display login successful
+							success=true
+						ENDIF
+				ENDIF
+			ENDWHILE
+		ENDIF	
+			
+
+	Get user level 
+	
+	IF user level=1 THEN
+		Print "Welcome member (username"
+		Redirect to study page
+	ELSE
+		Print "Welcome admin (username)"
+		Redirect to admin page
+	ENDIF
+
+END
+
+

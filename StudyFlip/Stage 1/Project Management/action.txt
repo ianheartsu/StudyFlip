@@ -1,0 +1,5 @@
+(+) Screen designs completed
+(+) Risks associated written down 
+(+) Gantt Chart of the scope of the project (clearly identify milestones and details)
+(+) Feedback given from client--> pproposal.docx updated
+(+) Update revision log and upload to http://assembla.com/

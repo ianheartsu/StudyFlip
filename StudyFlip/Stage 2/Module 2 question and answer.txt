@@ -1,0 +1,18 @@
+	START
+		set success=false
+		REPEAT get topicEntry
+			
+			IF	topicEntry=topic, then
+					get question
+					get answer
+					Display succesful
+			ELSE 
+				IF topic, question, answer = null
+					Display please fill out all fields
+				ELSE 
+						IF topicEntry!=topic
+							Display topic is not valid, please send topic reccomendation to teacher
+		
+		UNTIL success=true
+
+	END	

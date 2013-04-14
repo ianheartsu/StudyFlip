@@ -1,0 +1,51 @@
+? ? _ ? ? ? ¦ Eeyerns Logbook ¦ ? ? ? _ ? ?
+	
+•._.••´¯``•.¸¸.•` KEY `•.¸¸.•´´¯`••._.•
+	
+	(<->) Milestone
+	(+)-Added/Done
+	(U)-Updated
+	(~)-Fixed bug
+	(-)-Taken out
+	(I)-Ideas to Implement/"To do's"
+	(B)-Bug
+
+Wednesday 6th February
+	(+) Created Stage 2 Folder
+	(+) Created log.txt for logbook and action lists
+	(+) Received Project Manager Feedback, need to add to "pproposal.docx"
+		-Change formatting of first two pages of document (portrait)
+		-Change text of font for better viewing.
+		-How will system of questions share to public work?
+		-What role does the admin have in this system to manage/approve public Q's
+		-Create overall storyboard of system
+		-More detail on functions and how they all work
+		-Add sharing function
+
+Wednesday 20th February
+	(+) Went over data flow diagrams and outlined the processes "Making a Data Flow Diagram.docx"
+
+Wednesday 27th February
+	(+) Drafted Structure Chart and given feedback
+	(+) Data Flow Diagram Draft
+	(+) Learnt algorithms
+	
+Sunday 10th February
+	(+) Met with Peter Talacko at chatswood library to discuss project and progress
+	(+) Read some php/pseudocode books to understand algorithms better	
+
+Tuesday 12th February
+	(+) Met with Phillip Cooke for feedback of project
+	(+) Made changes to the project 
+		-algorithms
+		-data flow diagrams checked
+		-structure diagram
+		-screen designs
+		-data dictionary
+
+Wednesday 13th February
+		-description of structure diagram
+		-storyboard
+		-touch up of project documentation			
+
+

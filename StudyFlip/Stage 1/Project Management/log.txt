@@ -1,0 +1,100 @@
+? ? _ ? ? ? ¦ Eeyerns Logbook ¦ ? ? ? _ ? ?
+	
+•._.••´¯``•.¸¸.•` KEY `•.¸¸.•´´¯`••._.•
+
+Key:
+       (<->) Milestone
+ 	(+)-Added/Done
+	(U)-Updated
+ 	(~)-Fixed bug
+ 	(-)-Taken out
+ 	(I)-Ideas to Implement/"To do's"
+ 	(B)-Bug
+
+
+	Wednesday 10th October
+		(+) Created project folder
+		(+) Overview.txt with stage 1 requirements
+		(+) Thinking of ideas, asking friends, family and teachers
+		(+) Created project proposal document "pproposal.docx"
+		(+) Revision Log "log.txt"
+		(+) Gantt Chart
+
+	Friday 12th October
+		(U) "pproposal.docx"
+			-Details about client or proposed users
+			-Brief outline of the problem or need
+			-Outline any issues or risks that may affect the development of the system
+		(+)Action list of all tasks
+
+	Wednesday 17th October
+		(+) Initial drafts of prototype (made on cacoo) 
+
+	Wednesday 31st October
+		(U) "pproposal.docx" 
+			-Moved to new template provided
+			-Finished functionality requirements
+			-Added images of current system
+		(U) "action.txt"
+		(+) Screen designs exported to .png files and placed in folder "trunk/Stage 1/Project Management/Screen Designs"
+		(+) Existing System Images folder with 1 image of study notes
+		(+) ShowcaseSpeech.txt (showcasing project in words)
+
+	Wednesday 7th November
+		(U) "pproposal.docx"
+			-implemented screen designs
+			-outlined proposed solution
+			-overview of functionality
+			-compatibility issues
+		(U) project.mpp 
+		(I) Screen Designs
+			-Radio buttons for multiple choice instead of drop down
+			-Add topic box when creating a study/quiz questions
+			-multiple choice timed after 10 questions. Then report page shown
+		(I) System flow diagram
+		(I) Add more functionality
+
+	Monday 19th November
+		(+) New folder called old screens
+		(+) Old screens moved to old screens folder
+		(+) Created "Revision 1 Screens.doc"
+		(+) Created "Revision 2 Screens.doc"
+		(U) Updated new screens
+			-"Create" , "CreateStudy" , "CreateTestYourself" , "Login" , "Study3" , "TestResults" , "TestYourself2"
+		(U) "pproposal.docx"
+			-new screens into requirements
+			-added more functionality
+
+	Thursday 22nd Nobember
+		(U) "pproposal.docx"
+			-Storyboard screens
+			-Quality Assurance
+		(I) "pproposal.docx"
+			-Data requirements dictionary
+			-Springboard/Flowchart for application
+			-Functionality and Features for screen designs
+
+	Friday 23rd November
+		(U) "pproposal.docx"
+			-functionality - too be checked by client
+
+	Wednesday 28th November
+		(U) "pproposal.docx"
+			-Added data dictionaries of tables in system (not completed but rough analysis)
+			-Changed layout of document. Font type, screens, etc
+			-Received feedback by client, changes will be made in the next revision.
+			-Exported pproposal.docx to a pdf file so font can be viewed and can be printed from any system.
+	
+	 Sunday 30th December
+		(+) Created StudyFlip root folder for website
+		(+) Added Twitter Bootstrap for website template
+		(+) Added StudyFlip Files into trunk/website
+
+	Monday 1st January
+		(+) Created start up page/portal for website
+			-Created logo using paint
+			-Created Login and Sign Up headers using photoshop
+			-Added images of people studying from deviant art
+
+	Tuesday 2nd January
+		(+) Created login page "login.php", layout tutorial from creativity tuts on youtube
